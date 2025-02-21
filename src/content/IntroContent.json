@@ -1,0 +1,28 @@
+{
+  "title": "<h1>The New Era Of<br />Personalized Hybrid<br /><span style='color: blue'>Insurance</span> Is Here!</h1>",
+  "text": "Discover The Next Evolution ",
+  "buttonBig": [
+    {
+      "src": "icons8-home-50 1.svg",
+      "text": "Bundle & Save"
+    },
+    {
+      "src": "icons8-car-48 1.svg",
+      "text": "Auto"
+    }
+  ],
+  "buttonSmall": [
+    {
+      "src": "icons8-life-50 1.svg",
+      "text": "Life"
+    },
+    {
+      "src": "icons8-pet-50 1.svg",
+      "text": "Pet"
+    },
+    {
+      "src": "icons8-contact-50 1.svg",
+      "text": "See More"
+    }
+  ]
+}
