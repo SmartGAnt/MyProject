@@ -14,7 +14,6 @@ export const Styles = createGlobalStyle`
         font-style: normal;
     }
 
-
     body,
     html,
     a {

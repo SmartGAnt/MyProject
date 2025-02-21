@@ -22,6 +22,9 @@ const Header = ({ t }: { t: TFunction }) => {
   const toggleButton = () => {
     setVisibility(!visible);
   };
+  // const toggleButton = () => {
+  //   setVisibility(!visible);
+  // };
 
   const MenuItem = () => {
     const scrollTo = (id: string) => {
